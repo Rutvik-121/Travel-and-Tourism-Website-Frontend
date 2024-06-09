@@ -1,5 +1,5 @@
 # Travel_N_Tourism_Website
-Access the website here:- https://rutvik-121.github.io/Travel_N_Tourism_Website/
+Access the website here:- https://rutvik-121.github.io/Travel-and-Tourism-Website-Frontend/
 
 # Features
 - Responsive Travel Website Design Using HTML CSS & JavaScript
